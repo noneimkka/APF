@@ -1,0 +1,11 @@
+neural_gui/
+├── requirements.txt
+├── setup.py
+├── README.md
+├── .gitignore
+└── src/
+    ├── __init__.py
+    ├── main.py
+    └── gui/
+        ├── __init__.py
+        └── main_window.py 
